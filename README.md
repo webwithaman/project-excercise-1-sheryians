@@ -1,3 +1,5 @@
+## Job Ready AI-Powered Cohort: Complete Web Development + DSA + Aptitude by Sheryians Coding School
+
 ### Project Exercise 1 :- Blog Website
 
 - **Topic Covered** :- HTML
